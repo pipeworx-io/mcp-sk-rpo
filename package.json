@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sk-rpo",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "RPO — Register právnických osôb, podnikateľov a orgánov verejnej moci (Register of Legal Entities, Entrepreneurs and Public Authorities), published by the Statistical Office of the Slovak Republic (ŠÚ SR) at api.statistics.sk/rpo/v1/.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sk-rpo",
     "gatewaySlug": "sk-rpo",
-    "sourceHash": "v1-00c370f9ff3d18c8b4739cc48cf3ea0207fa212a0039d43cb83fec2749e44e78",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-d32438c8634ce9fe44239f952b4596248199b06f86fa8cbe76dcd79fd7d41a9c",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
